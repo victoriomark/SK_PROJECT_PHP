@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/Admin_Side_Updated/View/ACCOMPLISHMENTS.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Admin_Side_Updated/View/Events.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Admin_Side_Updated/View/Photos.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Admin_Side_Updated/View/ananouncement_.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Admin_Side_Updated/View/index.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Admin_Side_Updated/model/Add_Accomplishment.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Admin_Side_Updated/model/Add_Annaouncement.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Admin_Side_Updated/model/Add_Event.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Admin_Side_Updated/model/Add_photos.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Admin_Side_Updated/model/Delete_accomplishment.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Admin_Side_Updated/model/Delete_announceMent.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Admin_Side_Updated/model/Delete_event.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Admin_Side_Updated/model/Delete_photo.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Admin_Side_Updated/model/SaveEvent.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Admin_Side_Updated/model/SavePhotos.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Admin_Side_Updated/model/Save_Accomplishment.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Admin_Side_Updated/model/Save_announcement_.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Admin_Side_Updated/model/ViewAll_photos.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Admin_Side_Updated/model/ViewUpdateEvent.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Admin_Side_Updated/model/ViewUpdate_accomplishment.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Admin_Side_Updated/model/ViewUpdate_announce.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Admin_Side_Updated/model/ViewUpdate_phtos.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Admin_Side_Updated/model/View_Accomplishment.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Admin_Side_Updated/model/View_announce.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Admin_Side_Updated/model/View_event.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Admin_Side_Updated/model/validateLogin.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Updated_Ui/index.php" dialect="GenericSQL" />
+  </component>
+</project>

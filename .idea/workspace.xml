@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="057f22c6-eeff-4a21-9b82-ff404a70c2a7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../CoffeeShop_aila/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CoffeeShop_aila/MainJs/Getregistered.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CoffeeShop_aila/MainJs/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CoffeeShop_aila/MainJs/menu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CoffeeShop_aila/Model/AdiingToCart.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CoffeeShop_aila/Model/DisplayMenu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CoffeeShop_aila/Model/GetOrder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CoffeeShop_aila/Model/Logend.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CoffeeShop_aila/Model/Logout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CoffeeShop_aila/Model/Register_customer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CoffyShop/Model/ViewProduct.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CoffyShop/Main_js/shop.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../CoffyShop/Main_js/shop.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../E-COMMERCE-APDEVET-SPACE" beforeDir="false" afterPath="$PROJECT_DIR$/../../E-COMMERCE-APDEVET-SPACE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Group2/.idea/dataSources/5c0faf05-3b96-4741-9516-112c560d07d2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Group2/.idea/dataSources/5c0faf05-3b96-4741-9516-112c560d07d2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Group2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Group2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PortfolioWeb" beforeDir="false" afterPath="$PROJECT_DIR$/../../PortfolioWeb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PracicePHP" beforeDir="false" afterPath="$PROJECT_DIR$/../../PracicePHP" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web-design-course-restaurant" beforeDir="false" afterPath="$PROJECT_DIR$/../../web-design-course-restaurant" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="TypeScript File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2gozhIuw342aZNxdrmOtpkrFM1C" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;L:/PhpstormProjects/CoffyShop&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\PhpStorm 2023.3.4\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="L:\PhpstormProjects\SK_PROJECT\Admin_Side_Updated\View" />
+      <recent name="C:\Users\PC\Downloads\SK_PROJECT\Updated_Ui\Assets\images" />
+      <recent name="C:\Users\PC\Downloads\SK_PROJECT\Updated_Ui\Assets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="L:\PhpstormProjects\SK_PROJECT\Admin_Side_Updated\model" />
+      <recent name="L:\PhpstormProjects\SK_PROJECT\Updated_Ui\model" />
+      <recent name="L:\PhpstormProjects\SK_PROJECT\Admin_Side_Updated\View" />
+      <recent name="L:\PhpstormProjects\SK_PROJECT\Admin_Side_Updated\Assets" />
+      <recent name="C:\Users\PC\Downloads\SK_PROJECT\Main_CSS" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-php-predefined-ba97393d7c68-6f8e3395a2b4-com.jetbrains.php.sharedIndexes-PS-233.14475.35" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="057f22c6-eeff-4a21-9b82-ff404a70c2a7" name="Changes" comment="" />
+      <created>1716378837029</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716378837029</updated>
+      <workItem from="1716378839455" duration="3515000" />
+      <workItem from="1716469319588" duration="17140000" />
+      <workItem from="1716501357541" duration="3920000" />
+      <workItem from="1716505866710" duration="7273000" />
+      <workItem from="1716513201408" duration="7189000" />
+      <workItem from="1716521284544" duration="10053000" />
+      <workItem from="1716533096997" duration="8998000" />
+      <workItem from="1716543725962" duration="6040000" />
+      <workItem from="1716551455695" duration="6344000" />
+      <workItem from="1716559403380" duration="5352000" />
+      <workItem from="1716586975028" duration="13683000" />
+      <workItem from="1717493393201" duration="122000" />
+      <workItem from="1717493531301" duration="58000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

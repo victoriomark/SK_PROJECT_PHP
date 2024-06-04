@@ -1,0 +1,110 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.events{
+    padding: 0px;
+    margin: 0px;
+    background-color: rgb(255, 255, 255);
+}
+.eventPage{
+    display: flex;
+    flex-direction: column;
+}
+.eventTitle{
+    margin: 0  30px  30px  10px;
+    padding:  2rem 2rem 2rem 5rem;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    font-size: 2rem;
+}
+.Card{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row;
+    padding-bottom: 1rem;    
+}
+.CardBody{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+    background-color: #d4ca41; 
+    margin: 3rem;
+    padding: 0;
+    width: 50rem;
+    height: 25rem;
+    padding-top: 0;
+    width: 65%;    
+    height: 45rem;
+    border-radius: 15px;
+}
+.CardTitle{
+    display: flex;
+    justify-content: flex-start;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    font-size: 30px;
+    left: 10px;
+    position:relative;
+}
+.CardContent{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    height: 30rem;
+    background-color: #dcdcdc;
+    position: relative;
+    /* bottom: 15px; */
+}
+.CardRead{
+    display: flex;
+    justify-content: space-around;
+}
+.cardlist{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 3rem;
+    font-family: 'Roboto', sans-serif;
+}
+.cardlist .span1{
+    font-size: 5rem;
+    font-weight: 900;
+    color: rgb(49, 49, 249);
+}
+.cardlist .span2{
+    font-size: 3rem;
+    font-weight:800;
+    color: rgb(87, 87, 249);
+}
+.cardlist .span3{
+    font-size: 25px;
+    font-weight:700;
+    color: rgb(0, 0, 0);
+}
+.cardlist .span4{
+    font-size: 25px;
+    font-weight:700;
+    color: rgb(0, 0, 0);
+}
+
+.CardPar{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 1rem;
+    font-family: 'Roboto', sans-serif;
+}
+.CardParRead{
+    display: flex;
+    justify-content: flex-start;
+}
+.CardSpan1{
+    padding: 5px;
+}
+.Arrows{
+    background-color: rgb(180 180 180 / 69%);
+    border-radius: 50%;
+}
